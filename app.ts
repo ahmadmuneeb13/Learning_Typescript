@@ -19,3 +19,4 @@ console.log("Total sum is =" + sum);
 console.log("Total sub is =" + sub);
 console.log("Total muliple is =" + mul);
 console.log("The divide is =" + div);
+console.log("My first Typerscript Program");
